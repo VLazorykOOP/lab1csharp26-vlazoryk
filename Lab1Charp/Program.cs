@@ -11,6 +11,6 @@
     Console.WriteLine("p=" + p);
 
 }
-Console.WriteLine("Lab 1 !");
+Console.WriteLine("Lab 1  now!");
 task1();
 // continue ...
